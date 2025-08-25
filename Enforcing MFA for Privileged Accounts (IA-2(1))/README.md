@@ -2,7 +2,7 @@
 
 ## Potential pitfalls
 
-Overlook the step to create a policy folder for the rego policy. Upon creating and running ``conftest test iam_config.son``, everything ran as per the lab instructions. 
+Overlook the step to create a policy folder for the rego policy. Upon creating the folder and running ``conftest test iam_config.son`` in the terminal, everything ran as per the lab instructions. 
 
 ## Artifacts
 
