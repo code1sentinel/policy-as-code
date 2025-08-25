@@ -1,4 +1,4 @@
-# Lab 
+# Reflection
 
 ## Potential pitfalls
 
