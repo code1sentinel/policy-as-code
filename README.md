@@ -1,3 +1,3 @@
-# policy-as-code
+# Policy As Code Repository
 
-All labs related to policy-as-code
+Documentinng all labs related to policy-as-code
