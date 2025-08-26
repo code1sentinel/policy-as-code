@@ -1,3 +1,6 @@
 # Reflections
 
-## Lab
+## Potential Pitfalls
+
+## Artifacts
+
